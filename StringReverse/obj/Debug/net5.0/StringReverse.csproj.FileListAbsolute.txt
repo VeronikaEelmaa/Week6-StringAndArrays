@@ -1,0 +1,15 @@
+C:\Users\veron\source\repos\StringsAndArrays\StringReverse\bin\Debug\net5.0\StringReverse.exe
+C:\Users\veron\source\repos\StringsAndArrays\StringReverse\bin\Debug\net5.0\StringReverse.deps.json
+C:\Users\veron\source\repos\StringsAndArrays\StringReverse\bin\Debug\net5.0\StringReverse.runtimeconfig.json
+C:\Users\veron\source\repos\StringsAndArrays\StringReverse\bin\Debug\net5.0\StringReverse.runtimeconfig.dev.json
+C:\Users\veron\source\repos\StringsAndArrays\StringReverse\bin\Debug\net5.0\StringReverse.dll
+C:\Users\veron\source\repos\StringsAndArrays\StringReverse\bin\Debug\net5.0\ref\StringReverse.dll
+C:\Users\veron\source\repos\StringsAndArrays\StringReverse\bin\Debug\net5.0\StringReverse.pdb
+C:\Users\veron\source\repos\StringsAndArrays\StringReverse\obj\Debug\net5.0\StringReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veron\source\repos\StringsAndArrays\StringReverse\obj\Debug\net5.0\StringReverse.AssemblyInfoInputs.cache
+C:\Users\veron\source\repos\StringsAndArrays\StringReverse\obj\Debug\net5.0\StringReverse.AssemblyInfo.cs
+C:\Users\veron\source\repos\StringsAndArrays\StringReverse\obj\Debug\net5.0\StringReverse.csproj.CoreCompileInputs.cache
+C:\Users\veron\source\repos\StringsAndArrays\StringReverse\obj\Debug\net5.0\StringReverse.dll
+C:\Users\veron\source\repos\StringsAndArrays\StringReverse\obj\Debug\net5.0\ref\StringReverse.dll
+C:\Users\veron\source\repos\StringsAndArrays\StringReverse\obj\Debug\net5.0\StringReverse.pdb
+C:\Users\veron\source\repos\StringsAndArrays\StringReverse\obj\Debug\net5.0\StringReverse.genruntimeconfig.cache

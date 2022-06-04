@@ -1,0 +1,15 @@
+C:\Users\veron\source\repos\StringsAndArrays\HelloWorldReversed\bin\Debug\net5.0\HelloWorldReversed.exe
+C:\Users\veron\source\repos\StringsAndArrays\HelloWorldReversed\bin\Debug\net5.0\HelloWorldReversed.deps.json
+C:\Users\veron\source\repos\StringsAndArrays\HelloWorldReversed\bin\Debug\net5.0\HelloWorldReversed.runtimeconfig.json
+C:\Users\veron\source\repos\StringsAndArrays\HelloWorldReversed\bin\Debug\net5.0\HelloWorldReversed.runtimeconfig.dev.json
+C:\Users\veron\source\repos\StringsAndArrays\HelloWorldReversed\bin\Debug\net5.0\HelloWorldReversed.dll
+C:\Users\veron\source\repos\StringsAndArrays\HelloWorldReversed\bin\Debug\net5.0\ref\HelloWorldReversed.dll
+C:\Users\veron\source\repos\StringsAndArrays\HelloWorldReversed\bin\Debug\net5.0\HelloWorldReversed.pdb
+C:\Users\veron\source\repos\StringsAndArrays\HelloWorldReversed\obj\Debug\net5.0\HelloWorldReversed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veron\source\repos\StringsAndArrays\HelloWorldReversed\obj\Debug\net5.0\HelloWorldReversed.AssemblyInfoInputs.cache
+C:\Users\veron\source\repos\StringsAndArrays\HelloWorldReversed\obj\Debug\net5.0\HelloWorldReversed.AssemblyInfo.cs
+C:\Users\veron\source\repos\StringsAndArrays\HelloWorldReversed\obj\Debug\net5.0\HelloWorldReversed.csproj.CoreCompileInputs.cache
+C:\Users\veron\source\repos\StringsAndArrays\HelloWorldReversed\obj\Debug\net5.0\HelloWorldReversed.dll
+C:\Users\veron\source\repos\StringsAndArrays\HelloWorldReversed\obj\Debug\net5.0\ref\HelloWorldReversed.dll
+C:\Users\veron\source\repos\StringsAndArrays\HelloWorldReversed\obj\Debug\net5.0\HelloWorldReversed.pdb
+C:\Users\veron\source\repos\StringsAndArrays\HelloWorldReversed\obj\Debug\net5.0\HelloWorldReversed.genruntimeconfig.cache
